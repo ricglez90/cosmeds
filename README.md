@@ -1,2 +1,2 @@
 # cosmeds
-Image database for segmentation task in vineyards analysis.
+Grape bunches image database for training process in segmentation task.
